@@ -15,7 +15,8 @@
     - 孟加拉国: বাংলা (bn)  
     - 阿拉伯国家: العربية (ar)  
 
-![Snipaste_2024-10-22_09-42-41](https://github.com/user-attachments/assets/8d7c6b00-1dfe-43eb-b8a4-fbf122adf90a)
+![Snipaste_2024-10-22_10-24-04](https://github.com/user-attachments/assets/3ddbb1dc-bf95-4aef-a89e-b0cbf43382b0)
+
 
 # Mouse_Clicker_GUI
 Features:
@@ -34,4 +35,4 @@ Features:
     - Bangladesh: Bengali (bn)  
     - Arab countries: Arabic (ar)  
 
-![Snipaste_2024-10-22_09-42-41](https://github.com/user-attachments/assets/8d7c6b00-1dfe-43eb-b8a4-fbf122adf90a)
+![Snipaste_2024-10-22_10-24-04](https://github.com/user-attachments/assets/3ddbb1dc-bf95-4aef-a89e-b0cbf43382b0)
