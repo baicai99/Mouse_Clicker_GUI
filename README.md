@@ -16,3 +16,22 @@
     - 阿拉伯国家: العربية (ar)  
 
 ![Snipaste_2024-10-22_09-42-41](https://github.com/user-attachments/assets/8d7c6b00-1dfe-43eb-b8a4-fbf122adf90a)
+
+# Mouse_Clicker_GUI
+Features:
+1. Supports repeated clicks
+2. Supports double clicks
+3. Supports double clicks and repeated clicks within a range
+4. Supports localization
+    - China: Chinese (zh)  
+    - UK: English (en)  
+    - India: Hindi (hi)  
+    - Indonesia: Indonesian (id)  
+    - Pakistan: Urdu (ur)  
+    - Portugal: Portuguese (pt)  
+    - Spain: Spanish (es)  
+    - Russia: Russian (ru)  
+    - Bangladesh: Bengali (bn)  
+    - Arab countries: Arabic (ar)  
+
+![Snipaste_2024-10-22_09-42-41](https://github.com/user-attachments/assets/8d7c6b00-1dfe-43eb-b8a4-fbf122adf90a)
