@@ -1,5 +1,5 @@
 # Mouse_Clicker_GUI
-[下载](https://github.com/baicai99/Mouse_Clicker_GUI/releases/download/v1.0.1/Mouse_Clicker_GUI.exe) | [download](https://github.com/baicai99/Mouse_Clicker_GUI/releases/download/v1.0.1/Mouse_Clicker_GUI.exe)  
+## [下载](https://github.com/baicai99/Mouse_Clicker_GUI/releases/download/v1.0.1/Mouse_Clicker_GUI.exe) | [download](https://github.com/baicai99/Mouse_Clicker_GUI/releases/download/v1.0.1/Mouse_Clicker_GUI.exe)  
 功能：
 1. 支持 连击
 2. 支持 双击
